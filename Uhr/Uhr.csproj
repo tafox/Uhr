@@ -94,5 +94,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Töne\3-bells.wav" />
+    <Content Include="Töne\churchbell2.wav" />
+    <Content Include="Töne\click.wav" />
+    <Content Include="Töne\gearwav.wav" />
+    <Content Include="Töne\ticktock.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
